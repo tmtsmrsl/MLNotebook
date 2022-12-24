@@ -1,4 +1,4 @@
 # MLNotebook
 A compilation of my machine learning notebook. Please read the notebook in https://nbviewer.org/ to get a better format and see the visualization.
 
-* [titanic-project](https://nbviewer.org/github/tmtsmrsl/MLNotebook/blob/main/titanic-project.ipynb): EDA, feature engineering and preprocessing (handling missing values, standardization and one-hot encoding using Pipeline and ColumnTransformer), feature selection (by Mutual Information), model selection (Repeated KFolds CV), hyperparameter tuning (GridSearchCV and RandomizedSearchCV), model evaluation (confusion matrix, precision, recall)
+* [titanic-project](https://nbviewer.org/github/tmtsmrsl/MLNotebook/blob/main/titanic-project.ipynb): EDA, feature engineering (impute missing values, standardization,  one-hot encoding, feature selection by Mutual Information using Pipeline and ColumnTransformer), model selection (Repeated KFolds CV), hyperparameter tuning (GridSearchCV), model evaluation (confusion matrix, precision, recall)
